@@ -1,0 +1,47 @@
+body {
+   background-color: #123524; /* Fondo oscuro */
+   color: #EFE3C2; /* Texto principal */
+   font-family: Arial, sans-serif;
+}
+
+
+
+
+section {
+   background-color: #EFE3C2; /* Fondo claro para secciones */
+   color: #123524; /* Texto en secciones */
+   padding: 20px;
+   margin: 10px;
+}
+
+ body{
+    font-family:serif; 
+ }
+
+ #hero{
+  border: 20px ;
+ }
+h1,h2,h3,h4, #title{
+   color: #85A947; /* Títulos resaltados */
+}
+p{
+
+}
+ .Photo{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+ }
+
+
+
+ #Me{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+ text-align: center;
+ }
+ .intro {
+  width: 30%;
+  margin: auto;
+}
